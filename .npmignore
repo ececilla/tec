@@ -1,0 +1,6 @@
+test
+npm-debug.log
+.npmignore
+.travis.yml
+Gruntfile.js
+.jshintrc
