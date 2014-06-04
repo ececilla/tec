@@ -1,5 +1,5 @@
 'use strict';
-var tec = require('../lib/tec.js');
+var tec = require('../lib/cache.js');
 
 exports['tec'] = {
   setUp: function(done) {
