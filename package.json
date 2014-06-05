@@ -1,7 +1,7 @@
 {
   "name": "tec",
   "description": "Time eviction cache via proxy injection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/ececilla/tec",
   "author": {
     "name": "ececilla",
